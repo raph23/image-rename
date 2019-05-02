@@ -7,13 +7,11 @@ import pprint
 import subprocess
 import sys
 
+# resources for opening .XLSX with Python --> eliminate the need to convert the file
 # https://stackoverflow.com/questions/20105118/convert-xlsx-to-csv-correctly-using-python
 # https://www.datacamp.com/community/tutorials/python-excel-tutorial
 
-# https://gallery.technet.microsoft.com/How-to-convert-Excel-xlsx-d9521619
-# https://docs.microsoft.com/en-us/powershell/scripting/install/installing-windows-powershell?view=powershell-6
-
-# ADD csv output
+# TO DO: ADD output in csv file
 
 # file extension for images and reports
 IMAGE_FILE_EXTENSION = ".jpg"
